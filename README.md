@@ -4,6 +4,9 @@ Front end developer, they/them. I fight for the Users.
 
 ![tron](https://github.com/scottdotjs/scottdotjs/assets/32358661/276ce590-6dc7-4ea9-aa87-ee4ca668c225)
 
+
+**[#NoTechForApartheid](https://twitter.com/search?q=%23NoTechForApartheid&f=live) [#NoTechForICE](https://twitter.com/search?q=%23NoTechForICE&f=live)**
+
 ## Briefly
 
 - 1997-1999: Surfing the World Wide Web, a Netizen in Cyberspace, exploring the Electronic Frontier, a Webmaster (reading excitable articles in Wired and joining webrings with my GeoCities home page)
