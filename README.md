@@ -1,6 +1,8 @@
 # Scott Martin
 
-Front end developer, they/them
+Front end developer, they/them. I fight for the Users.
+
+![tron](https://github.com/scottdotjs/scottdotjs/assets/32358661/276ce590-6dc7-4ea9-aa87-ee4ca668c225)
 
 ## Briefly
 
