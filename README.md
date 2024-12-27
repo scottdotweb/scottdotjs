@@ -2,7 +2,7 @@
 
 Front end developer, they/them. I fight for the Users.
 
-![tron](https://github.com/scottdotjs/scottdotjs/assets/32358661/276ce590-6dc7-4ea9-aa87-ee4ca668c225)
+![tron](https://github.com/scottdotweb/scottdotweb/assets/32358661/276ce590-6dc7-4ea9-aa87-ee4ca668c225)
 
 
 **[#NoTechForApartheid](https://twitter.com/search?q=%23NoTechForApartheid&f=live) [#NoTechForICE](https://twitter.com/search?q=%23NoTechForICE&f=live)**
@@ -23,5 +23,5 @@ Just odds and ends, I don't really program as a hobby any more.
 
 I try to give back to projects from which I've benefited by improving the documentation, either directly or by offering feedback from a learner's perspective. 
 
-* [Issues which I've opened](https://github.com/search?q=author%3Ascottdotjs+is%3Aissue&type=issues&s=created&o=desc)
-* [My PRs](https://github.com/search?q=author%3Ascottdotjs&type=pullrequests&s=created&o=desc)
+* [Issues which I've opened](https://github.com/search?q=author%3Ascottdotweb+is%3Aissue&type=issues&s=created&o=desc)
+* [My PRs](https://github.com/search?q=author%3Ascottdotweb&type=pullrequests&s=created&o=desc)
